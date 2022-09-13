@@ -68,6 +68,10 @@ ul{
   
 }
 
+a{
+  color: #FFDEAD;
+}
+
 a:hover{
   text-decoration: none;
   font-weight: 700;
