@@ -96,6 +96,15 @@ a:hover{
   line-height: 2.5;
   margin: 0 29px;
 }
+h4{
+  padding: 0,5rem;
+  text-align: center
+}
+
+.formulario {
+  padding: 1rem;
+  text-align: center
+}
 
 button{
   background-color: #41f341;
